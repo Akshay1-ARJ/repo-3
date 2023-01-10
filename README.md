@@ -1,1 +1,1 @@
-# repo-3
+# repo configuration
